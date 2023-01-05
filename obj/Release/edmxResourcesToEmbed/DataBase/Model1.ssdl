@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Bobrovski_4IS1_MyDataBase_HostelModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CheckInOut">
+    <Key>
+      <PropertyRef Name="ID_Ch" />
+    </Key>
+    <Property Name="ID_Ch" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_Stud" Type="int" />
+    <Property Name="Date_In" Type="date" />
+    <Property Name="Date_Out" Type="date" />
+  </EntityType>
+  <EntityType Name="Exemptions">
+    <Key>
+      <PropertyRef Name="ID_Exemption" />
+    </Key>
+    <Property Name="ID_Exemption" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="E_Name" Type="varchar" MaxLength="150" />
+    <Property Name="Discount" Type="int" />
+  </EntityType>
+  <EntityType Name="Pays">
+    <Key>
+      <PropertyRef Name="ID_P" />
+    </Key>
+    <Property Name="ID_P" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_Stud" Type="int" />
+    <Property Name="Pay" Type="decimal" Precision="15" Scale="2" />
+    <Property Name="P_Date" Type="date" />
+  </EntityType>
+  <EntityType Name="Prices">
+    <Key>
+      <PropertyRef Name="ID_Price" />
+    </Key>
+    <Property Name="ID_Price" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Pr_Sum" Type="decimal" Precision="15" Scale="2" />
+    <Property Name="Pr_Date" Type="date" />
+  </EntityType>
+  <EntityType Name="Rooms">
+    <Key>
+      <PropertyRef Name="ID_Room" />
+    </Key>
+    <Property Name="ID_Room" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="R_Floor" Type="int" />
+    <Property Name="ColPlace" Type="int" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="ID_Stud" />
+    </Key>
+    <Property Name="ID_Stud" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="F" Type="varchar" MaxLength="50" />
+    <Property Name="I" Type="varchar" MaxLength="50" />
+    <Property Name="O" Type="varchar" MaxLength="50" />
+    <Property Name="BirthDay" Type="date" />
+    <Property Name="PassInfo" Type="varchar" MaxLength="10" />
+    <Property Name="ID_Exemption" Type="int" />
+    <Property Name="ID_Room" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID_User" />
+    </Key>
+    <Property Name="ID_User" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserLogin" Type="varchar" MaxLength="50" />
+    <Property Name="UserPassword" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_CheckInOut">
+    <End Role="Students" Type="Self.Students" Multiplicity="0..1" />
+    <End Role="CheckInOut" Type="Self.CheckInOut" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID_Stud" />
+      </Principal>
+      <Dependent Role="CheckInOut">
+        <PropertyRef Name="ID_Stud" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pays">
+    <End Role="Students" Type="Self.Students" Multiplicity="0..1" />
+    <End Role="Pays" Type="Self.Pays" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID_Stud" />
+      </Principal>
+      <Dependent Role="Pays">
+        <PropertyRef Name="ID_Stud" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Students_1">
+    <End Role="Exemptions" Type="Self.Exemptions" Multiplicity="0..1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Exemptions">
+        <PropertyRef Name="ID_Exemption" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="ID_Exemption" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Students_2">
+    <End Role="Rooms" Type="Self.Rooms" Multiplicity="0..1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms">
+        <PropertyRef Name="ID_Room" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="ID_Room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище Bobrovski_4IS1_MyDataBase_HostelModelContainer">
+    <EntitySet Name="CheckInOut" EntityType="Self.CheckInOut" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Exemptions" EntityType="Self.Exemptions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pays" EntityType="Self.Pays" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Prices" EntityType="Self.Prices" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rooms" EntityType="Self.Rooms" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CheckInOut" Association="Self.FK_CheckInOut">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="CheckInOut" EntitySet="CheckInOut" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pays" Association="Self.FK_Pays">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Pays" EntitySet="Pays" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Students_1" Association="Self.FK_Students_1">
+      <End Role="Exemptions" EntitySet="Exemptions" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Students_2" Association="Self.FK_Students_2">
+      <End Role="Rooms" EntitySet="Rooms" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

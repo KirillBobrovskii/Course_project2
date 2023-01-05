@@ -1,0 +1,523 @@
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4ИС1\Бобровсий Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+D:\4-ИС-1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Assign.g.cs
+D:\4ИС1\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Assign.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Assign.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Assign.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровский Кирилл\Новая папка\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Assign.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Assign.baml
+D:\4ИС1\Бобровский Кирилл\Разработка и эксплуатация удалённых баз данных\БазыДанных\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.g.cs
+D:\4ИС1\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровский Кирилл\Курсовой проект\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csprojAssemblyReference.cache
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+D:\4ИС1\Бобровский Кирилл\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\48-07\Курсовой проект — копия\Hostel\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+C:\Users\Кирилл\Desktop\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+C:\Users\Кирилл\Desktop\Курсач 2_готов\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe.config
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.exe
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\bin\Debug\Wpf_DataBase_Hostel_App.pdb
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.dll
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.xml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Registration.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\App.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_Content.g.cs
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\AuthorizationWindow.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\MainWindow.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students-Rooms.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\CheckInOut.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Exemptions.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Hostel.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Pays.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Prices.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Rooms.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Pages\Students.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Registration.baml
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.g.resources
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.csproj.CopyComplete
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.exe
+C:\Users\Кирилл\Desktop\Курcовой проект 2\Wpf_DataBase_Hostel_App\obj\Debug\Wpf_DataBase_Hostel_App.pdb

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Bobrovski_4IS1_MyDataBase_HostelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CheckInOut">
+    <Key>
+      <PropertyRef Name="ID_Ch" />
+    </Key>
+    <Property Name="ID_Ch" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Stud" Type="Int32" />
+    <Property Name="Date_In" Type="DateTime" Precision="0" />
+    <Property Name="Date_Out" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_CheckInOut" FromRole="CheckInOut" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Exemptions">
+    <Key>
+      <PropertyRef Name="ID_Exemption" />
+    </Key>
+    <Property Name="ID_Exemption" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="E_Name" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Discount" Type="Int32" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Students_1" FromRole="Exemptions" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Pays">
+    <Key>
+      <PropertyRef Name="ID_P" />
+    </Key>
+    <Property Name="ID_P" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Stud" Type="Int32" />
+    <Property Name="Pay" Type="Decimal" Precision="15" Scale="2" />
+    <Property Name="P_Date" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Pays" FromRole="Pays" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Prices">
+    <Key>
+      <PropertyRef Name="ID_Price" />
+    </Key>
+    <Property Name="ID_Price" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Pr_Sum" Type="Decimal" Precision="15" Scale="2" />
+    <Property Name="Pr_Date" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="Rooms">
+    <Key>
+      <PropertyRef Name="ID_Room" />
+    </Key>
+    <Property Name="ID_Room" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="R_Floor" Type="Int32" />
+    <Property Name="ColPlace" Type="Int32" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Students_2" FromRole="Rooms" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="ID_Stud" />
+    </Key>
+    <Property Name="ID_Stud" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="F" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="I" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="O" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="BirthDay" Type="DateTime" Precision="0" />
+    <Property Name="PassInfo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="ID_Exemption" Type="Int32" />
+    <Property Name="ID_Room" Type="Int32" />
+    <NavigationProperty Name="CheckInOut" Relationship="Self.FK_CheckInOut" FromRole="Students" ToRole="CheckInOut" />
+    <NavigationProperty Name="Exemptions" Relationship="Self.FK_Students_1" FromRole="Students" ToRole="Exemptions" />
+    <NavigationProperty Name="Pays" Relationship="Self.FK_Pays" FromRole="Students" ToRole="Pays" />
+    <NavigationProperty Name="Rooms" Relationship="Self.FK_Students_2" FromRole="Students" ToRole="Rooms" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID_User" />
+    </Key>
+    <Property Name="ID_User" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserLogin" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_CheckInOut">
+    <End Role="Students" Type="Self.Students" Multiplicity="0..1" />
+    <End Role="CheckInOut" Type="Self.CheckInOut" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID_Stud" />
+      </Principal>
+      <Dependent Role="CheckInOut">
+        <PropertyRef Name="ID_Stud" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Students_1">
+    <End Role="Exemptions" Type="Self.Exemptions" Multiplicity="0..1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Exemptions">
+        <PropertyRef Name="ID_Exemption" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="ID_Exemption" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pays">
+    <End Role="Students" Type="Self.Students" Multiplicity="0..1" />
+    <End Role="Pays" Type="Self.Pays" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="ID_Stud" />
+      </Principal>
+      <Dependent Role="Pays">
+        <PropertyRef Name="ID_Stud" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Students_2">
+    <End Role="Rooms" Type="Self.Rooms" Multiplicity="0..1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rooms">
+        <PropertyRef Name="ID_Room" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="ID_Room" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Bobrovski_4IS1_MyDataBase_HostelEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CheckInOut" EntityType="Self.CheckInOut" />
+    <EntitySet Name="Exemptions" EntityType="Self.Exemptions" />
+    <EntitySet Name="Pays" EntityType="Self.Pays" />
+    <EntitySet Name="Prices" EntityType="Self.Prices" />
+    <EntitySet Name="Rooms" EntityType="Self.Rooms" />
+    <EntitySet Name="Students" EntityType="Self.Students" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <AssociationSet Name="FK_CheckInOut" Association="Self.FK_CheckInOut">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="CheckInOut" EntitySet="CheckInOut" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Students_1" Association="Self.FK_Students_1">
+      <End Role="Exemptions" EntitySet="Exemptions" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pays" Association="Self.FK_Pays">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Pays" EntitySet="Pays" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Students_2" Association="Self.FK_Students_2">
+      <End Role="Rooms" EntitySet="Rooms" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

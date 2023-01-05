@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Bobrovski_4IS1_MyDataBase_HostelModelContainer" CdmEntityContainer="Bobrovski_4IS1_MyDataBase_HostelEntities">
+    <EntitySetMapping Name="CheckInOut">
+      <EntityTypeMapping TypeName="Bobrovski_4IS1_MyDataBase_HostelModel.CheckInOut">
+        <MappingFragment StoreEntitySet="CheckInOut">
+          <ScalarProperty Name="ID_Ch" ColumnName="ID_Ch" />
+          <ScalarProperty Name="ID_Stud" ColumnName="ID_Stud" />
+          <ScalarProperty Name="Date_In" ColumnName="Date_In" />
+          <ScalarProperty Name="Date_Out" ColumnName="Date_Out" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Exemptions">
+      <EntityTypeMapping TypeName="Bobrovski_4IS1_MyDataBase_HostelModel.Exemptions">
+        <MappingFragment StoreEntitySet="Exemptions">
+          <ScalarProperty Name="ID_Exemption" ColumnName="ID_Exemption" />
+          <ScalarProperty Name="E_Name" ColumnName="E_Name" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pays">
+      <EntityTypeMapping TypeName="Bobrovski_4IS1_MyDataBase_HostelModel.Pays">
+        <MappingFragment StoreEntitySet="Pays">
+          <ScalarProperty Name="ID_P" ColumnName="ID_P" />
+          <ScalarProperty Name="ID_Stud" ColumnName="ID_Stud" />
+          <ScalarProperty Name="Pay" ColumnName="Pay" />
+          <ScalarProperty Name="P_Date" ColumnName="P_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Prices">
+      <EntityTypeMapping TypeName="Bobrovski_4IS1_MyDataBase_HostelModel.Prices">
+        <MappingFragment StoreEntitySet="Prices">
+          <ScalarProperty Name="ID_Price" ColumnName="ID_Price" />
+          <ScalarProperty Name="Pr_Sum" ColumnName="Pr_Sum" />
+          <ScalarProperty Name="Pr_Date" ColumnName="Pr_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rooms">
+      <EntityTypeMapping TypeName="Bobrovski_4IS1_MyDataBase_HostelModel.Rooms">
+        <MappingFragment StoreEntitySet="Rooms">
+          <ScalarProperty Name="ID_Room" ColumnName="ID_Room" />
+          <ScalarProperty Name="R_Floor" ColumnName="R_Floor" />
+          <ScalarProperty Name="ColPlace" ColumnName="ColPlace" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="Bobrovski_4IS1_MyDataBase_HostelModel.Students">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="ID_Stud" ColumnName="ID_Stud" />
+          <ScalarProperty Name="F" ColumnName="F" />
+          <ScalarProperty Name="I" ColumnName="I" />
+          <ScalarProperty Name="O" ColumnName="O" />
+          <ScalarProperty Name="BirthDay" ColumnName="BirthDay" />
+          <ScalarProperty Name="PassInfo" ColumnName="PassInfo" />
+          <ScalarProperty Name="ID_Exemption" ColumnName="ID_Exemption" />
+          <ScalarProperty Name="ID_Room" ColumnName="ID_Room" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Bobrovski_4IS1_MyDataBase_HostelModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="ID_User" ColumnName="ID_User" />
+          <ScalarProperty Name="UserLogin" ColumnName="UserLogin" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

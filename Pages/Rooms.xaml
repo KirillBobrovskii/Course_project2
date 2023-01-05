@@ -1,0 +1,82 @@
+﻿<Page x:Class="Wpf_DataBase_Hostel_App.Pages.Rooms"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Wpf_DataBase_Hostel_App.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Rooms" Loaded="RoomsPage_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition x:Name="RoomsGridSplitter" Width="0"/>
+            <ColumnDefinition x:Name="RoomsColumnChange" Width="0" MaxWidth="400"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Комнаты" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" FontSize="26" FontWeight="ExtraBold"/>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Orientation="Horizontal">
+            <Button Content="Добавить" Height="30" Width="100" Padding="5,5,5,5" Margin="5,5,0,5" Click="RoomsAddButton"/>
+            <Button Content="Копировать" Height="30" Width="100" Padding="5,5,5,5" Margin="5,5,0,5" Click="RoomsCopyButton"/>
+            <Button Content="Изменить" Height="30" Width="100" Padding="5,5,5,5" Margin="5,5,0,5" Click="RoomsEditButton"/>
+            <Button Content="Удалить" Height="30" Width="100" Padding="5,5,5,5" Margin="5,5,0,5" Click="RoomsDeleteButton"/>
+            <Label Content="|" FontSize="24" FontWeight="Bold" Foreground="Gray" Margin="15,0,0,0"/>
+            <ComboBox x:Name="RoomsFilterComboBox" Width="150" Height="30" Margin="15,0,0,0"/>
+            <TextBox x:Name="RoomsFilterTextBox" Margin="5,0,5,0" Width="170" Height="30" TextChanged="RoomsFilterTextBox_TextChanged"/>
+        </StackPanel>
+
+        <DockPanel Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Margin="5,0,0,5">
+            <DataGrid x:Name="RoomsGrid" AutoGenerateColumns="False" CanUserAddRows="False" Background="White">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Комната" Binding="{Binding Path=ID_Room}" Width="10*"/>
+                    <DataGridTextColumn Header="Этаж" Binding="{Binding Path=R_Floor}" Width="10*"/>
+                    <DataGridTextColumn Header="Кол-во мест" Binding="{Binding Path=ColPlace}" Width="10*"/>
+                    <DataGridTemplateColumn Header="Управление">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Button Content="Изм." Width="30" Margin="5,0,0,0" FontSize="8" Click="RoomsEditButton"/>
+                                    <Button Content="Удал." Width="30" Margin="5,0,5,0" FontSize="8" Click="RoomsDeleteButton"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+
+        <GridSplitter Grid.Column="1" Grid.Row="2" Width="3" HorizontalAlignment="Stretch"/>
+
+        <StackPanel Grid.Row="2" Grid.Column="2" Orientation="Vertical">
+            <Label x:Name="RoomsLabel" Content="Добавить комнату" FontSize="16" FontWeight="Bold" Margin="5,0,0,0"/>
+
+            <!--<StackPanel Orientation="Horizontal">
+                <Label Content="Комната" Margin="5,0,0,0" Width="100"/>
+                <TextBox x:Name="Room" Text="{Binding ElementName=RoomsGrid, Path=SelectedItem.Room}" Width="150" Height="20" Margin="5,0,0,0"/>
+            </StackPanel>-->
+
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Этаж" Margin="5,0,0,0" Width="100"/>
+                <TextBox x:Name="RoomFloor" Text="{Binding ElementName=RoomsGrid, Path=SelectedItem.R_Floor}" Width="150" Height="20" Margin="5,0,0,0"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Кол-во мест" Margin="5,0,0,0" Width="100"/>
+                <TextBox x:Name="RoomsColPlace" Text="{Binding ElementName=RoomsGrid, Path=SelectedItem.ColPlace}" Width="150" Height="20" Margin="5,0,0,0"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15,0,0">
+                <Button x:Name="RoomsCommit" Content="" Height="30" Width="120" Padding="5,5,5,5" Margin="5,5,0,5" Click="RoomsCommitButton"/>
+                <Button Content="Отменить" Height="30" Width="120" Padding="5,5,5,5" Margin="5,5,0,5" Click="RoomsRollbackButton"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

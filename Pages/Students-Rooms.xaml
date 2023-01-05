@@ -1,0 +1,59 @@
+﻿<Page x:Class="Wpf_DataBase_Hostel_App.Pages.Students_Rooms"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Wpf_DataBase_Hostel_App.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Students_Rooms">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" MinWidth="300"/>
+            <ColumnDefinition Width="3"/>
+            <ColumnDefinition x:Name="RoomsColumn" Width="*" MaxWidth="600"/>
+        </Grid.ColumnDefinitions>
+
+        <Label x:Name="Label1" Content="Студент/комната" FontSize="26" FontWeight="ExtraBold"/>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Content="Заселить студента" Height="30" Width="120" Padding="5,5,5,5" Margin="5,5,0,5" Click="CheckInStudentButtonClick"/>
+            <Button Content="Выселить студента" Height="30" Width="120" Padding="5,5,5,5" Margin="5,10,0,10" Click="ChechOutStudentsButtonClick"/>
+        </StackPanel>
+
+        <DataGrid x:Name="StudentsDataGrid" Grid.Row="2" AutoGenerateColumns="False" CanUserAddRows="False" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Студент" Width="10*">
+                    <DataGridTextColumn.Binding>
+                        <MultiBinding StringFormat="{}{0} {1} {2}">
+                            <Binding Path="F"/>
+                            <Binding Path="I"/>
+                            <Binding Path="O"/>
+                        </MultiBinding>
+                    </DataGridTextColumn.Binding>
+                </DataGridTextColumn>
+                <DataGridTextColumn x:Name="RoomColumn" Header="Комната" Binding="{Binding Path=ID_Room}" Width="10*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <GridSplitter x:Name="GridSplitter" Grid.Column="1" Grid.Row="2" Width="3" HorizontalAlignment="Stretch"/>
+
+        <DataGrid x:Name="RoomsDataGrid" Grid.Row="2" Grid.Column="2" AutoGenerateColumns="False" CanUserAddRows="False" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Комната" Binding="{Binding Path=ID_Room}" Width="10*"/>
+                <DataGridTextColumn Header="Этаж" Binding="{Binding Path=ID_Room}" Width="10*"/>
+                <DataGridTextColumn Header="Количество мест" Binding="{Binding Path=ID_Room}" Width="10*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button x:Name="CommitButton" Grid.Row="3" Height="30" Width="120" Padding="5,5,5,5" Margin="5,5,0,5" Visibility="Hidden" HorizontalAlignment="Left" Click="CommitButtonClick"/>
+    </Grid>
+</Page>
